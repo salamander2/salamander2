@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#### Note: Since 2024, the vast majority of my daily commits are made to private enterprise repositories for my full-time software engineering role.
 <!--
 **salamander2/salamander2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
